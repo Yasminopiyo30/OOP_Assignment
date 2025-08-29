@@ -1,4 +1,4 @@
-# Activity 2: Polymorphism Challenge! 🎭
+# Activity 2: Polymorphism Challenge! 
 # Same method name (move()) but different behavior in each class.
 
 class Vehicle:

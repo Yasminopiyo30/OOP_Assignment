@@ -1,4 +1,4 @@
-# Assignment 1: Design Your Own Class! 🏗️
+# Assignment 1: Design Your Own Class! 
 
 # Base Class
 class Person:
